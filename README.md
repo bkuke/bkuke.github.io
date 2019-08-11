@@ -2,16 +2,16 @@
 
 This blog is:
 - [x] Just to Start
-- [] Still being constructing
-- [] Halfway
-- [] Nearly Complete
+- [ ] Still being constructing
+- [ ] Halfway
+- [ ] Nearly Complete
 
 >*It still have a long way to go*
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a ~~lightweight~~ and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
