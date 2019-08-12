@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## ～～博客～～进度
 
 This blog is:
 - [x] Just to Start
@@ -9,9 +9,11 @@ This blog is:
 >*It still have a long way to go*
 
 
-### Markdown
+### 思维僵化
 
-Markdown is a ~~lightweight~~ and easy-to-use syntax for styling your writing. It includes conventions for
+ 忘了可以用中文，习惯性使用英文
+- 建～～博客～～页面之前想着传播我的知识，开源思想
+- 建好了之后，又是个～～脑袋空空～～充实的一天呢
 
 ```markdown
 Syntax highlighted code block
