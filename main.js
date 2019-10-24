@@ -3,16 +3,7 @@
 let rec=[];
 let i=0;
 const checkbox=document.querySelectorAll('input');
-checkbox.addEventListener('click',check);
-function check(e){
-	
-	if(e.target.checked===true){
-		e.target.checked=false;
-	}
-	else {e.target.checked=true;
-	}
-		update();	
-}
+checkbox.forEach((list)=>{list.addEventListener('click',update);});
 function update(){
 	rec=[];
 	for(i=0;i<checkbox.length;i++){
