@@ -95,7 +95,7 @@
 				$make -j4 TILES=1 SOUND=1 RELEASE=1 USE_HOME_DIR=1	<br>
 				//4线程(job),TILES=1：贴图版,SOUND=1:游戏有声音,RELEASE=1:运行优化<br>
 				//UES_HOME_DIR=1:在home目录建立文件夹储存配置(比如音乐包)和存档文件,而不是游戏根目录<br>
-				$make localization zh-CN<br>					//默认编译语言没有中文,添加中文翻译文件<br>
+				$make LANGUAGES="zh-CN"<br>					//默认编译语言没有中文,添加中文翻译文件<br>
 				$./cataclysm-launcher	<br>					//启动！<br>
 					</code>
 				</li>
